@@ -6,6 +6,7 @@ Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -15,4 +16,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
