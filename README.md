@@ -30,4 +30,16 @@ Leetcode solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
