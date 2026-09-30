@@ -9,6 +9,7 @@ Leetcode solutions
 | [0053-maximum-subarray](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
+| [0867-transpose-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0867-transpose-matrix) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -52,4 +53,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
