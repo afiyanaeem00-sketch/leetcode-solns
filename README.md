@@ -16,11 +16,13 @@ Leetcode solutions
 | [0867-transpose-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
