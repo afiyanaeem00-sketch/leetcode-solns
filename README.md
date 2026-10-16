@@ -8,6 +8,7 @@ Leetcode solutions
 | ------- |
 | [0048-rotate-image](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
@@ -26,6 +27,7 @@ Leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
@@ -41,6 +43,7 @@ Leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
@@ -74,4 +77,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0867-transpose-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
