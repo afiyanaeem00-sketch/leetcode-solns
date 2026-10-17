@@ -6,6 +6,7 @@ Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@ Leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
