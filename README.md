@@ -24,6 +24,7 @@ Leetcode solutions
 | ------- |
 | [0048-rotate-image](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
+| [2235-add-two-integers](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
