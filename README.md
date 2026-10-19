@@ -54,6 +54,7 @@ Leetcode solutions
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0058-length-of-last-word) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
