@@ -16,6 +16,7 @@ Leetcode solutions
 | [0661-image-smoother](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -33,6 +34,7 @@ Leetcode solutions
 | [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -48,6 +50,7 @@ Leetcode solutions
 | ------- |
 | [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
