@@ -56,6 +56,7 @@ Leetcode solutions
 | ------- |
 | [0058-length-of-last-word](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0058-length-of-last-word) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
