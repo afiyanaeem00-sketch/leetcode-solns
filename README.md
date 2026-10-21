@@ -33,6 +33,7 @@ Leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
@@ -55,6 +56,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0125-valid-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
