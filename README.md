@@ -20,6 +20,7 @@ Leetcode solutions
 | [0867-transpose-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -81,6 +82,7 @@ Leetcode solutions
 | [0069-sqrtx](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0704-binary-search) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
