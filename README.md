@@ -26,6 +26,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
 | [2235-add-two-integers](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -77,6 +78,7 @@ Leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
@@ -101,4 +103,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
