@@ -9,6 +9,7 @@ Leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0118-pascals-triangle) |
@@ -76,12 +77,14 @@ Leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0661-image-smoother](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0867-transpose-matrix) |
