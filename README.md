@@ -14,6 +14,7 @@ Leetcode solutions
 | [0118-pascals-triangle](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0189-rotate-array) |
 | [0661-image-smoother](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0661-image-smoother) |
+| [0704-binary-search](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ Leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/afiyanaeem00-sketch/leetcode-solns/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
